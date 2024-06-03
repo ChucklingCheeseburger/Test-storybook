@@ -1,0 +1,30 @@
+
+> test_storybook@1.0.0 build-storybook
+> storybook build --output-dir /var/folders/90/7_68lk5x1vg6r6bnt1dpgsmm0000gs/T/chromatic--70132-50wb7LtnYac6
+
+@storybook/cli v8.1.5
+
+info => Cleaning outputDir: ../../../../var/folders/90/7_68lk5x1vg6r6bnt1dpgsmm0000gs/T/chromatic--70132-50wb7LtnYac6
+info => Loading presets
+info => Building manager..
+info => Manager built (210 ms)
+info => Building preview..
+info Addon-docs: using MDX3
+info => Using implicit CSS loaders
+info => Using default Webpack5 setup
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   static/media/addon-library.7a58d2cb.png (456 KiB)
+WARN   197.f1d9b481.iframe.bundle.js (764 KiB)
+WARN   797.bf4c95c8.iframe.bundle.js (812 KiB)
+WARN   751.d5fb844a.iframe.bundle.js (357 KiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (371 KiB)
+WARN       runtime~main.18d592ce.iframe.bundle.js
+WARN       751.d5fb844a.iframe.bundle.js
+WARN       main.d90fbf0a.iframe.bundle.js
+WARN 
+info => Preview built (6.9 s)
+info => Output directory: /var/folders/90/7_68lk5x1vg6r6bnt1dpgsmm0000gs/T/chromatic--70132-50wb7LtnYac6

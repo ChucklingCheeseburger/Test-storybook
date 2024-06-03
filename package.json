@@ -21,6 +21,7 @@
     "@storybook/html": "^8.1.5",
     "@storybook/html-webpack5": "^8.1.5",
     "@storybook/test": "^8.1.5",
-    "storybook": "^8.1.5"
+    "storybook": "^8.1.5",
+    "storybook-addon-designs": "^6.3.1"
   }
 }
